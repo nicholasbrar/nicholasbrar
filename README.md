@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nicholasbrar&color=blue)
 
 ## About Me
-I'm love developing and am passionate about math and ML. 
+I love building and am passionate about math and ML. 
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasbrar&show_icons=true&theme=radical)
