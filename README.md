@@ -1,4 +1,4 @@
 # Welcome to my GitHub
 ![Profile Views](https://komarev.com/ghpvc/?username=nicholasbrar&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicholasbrar)](https://github.com/ryo-ma/github-profile-trophy)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasbrar)](https://github.com/anuraghazra/github-readme-stats)
